@@ -67,7 +67,7 @@ cd Stock-Portfolio-Tracker
 python stock_tracker.py
 ```
 
-If `python` does not work on my computer, I can try:
+If `python` does not work, we can try:
 
 ```bash
 py stock_tracker.py
